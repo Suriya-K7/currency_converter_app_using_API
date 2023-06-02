@@ -6,8 +6,8 @@
 
 ## Created task deployed on below links :
 
-<a href="">Deployed in Netlify link need to add</a>
+<a href="https://day-21-task-02-currency-converter.netlify.app/">Deployed in Netlify</a>
 
-<a href="">Deployed in Github.io link need to add</a>
+<a href="https://suriya-k7.github.io/Guvi_Day_21_task_02_currency_converter_using_API/">Deployed in Github.io</a>
 
 #
