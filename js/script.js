@@ -210,7 +210,7 @@ let convertCurrency = async () => {
         spinner.classList.add("active");
         setTimeout(() => {
           spinner.classList.remove("active");
-        }, 1000);
+        }, 500);
         let fromExchangeRate = data.conversion_rates[fromCurrency];
         let toExchangeRate = data.conversion_rates[toCurrency];
         const convertedAmount = (amount / fromExchangeRate) * toExchangeRate;
