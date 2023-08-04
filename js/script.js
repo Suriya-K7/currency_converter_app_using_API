@@ -1,4 +1,5 @@
-let apiKey = "e4038c2ec17c83071d57d678";
+// let apiKey = "e4038c2ec17c83071d57d678";
+let apiKey = "68e1e44b09c9ffb19d8bc855";
 let api = `https://v6.exchangerate-api.com/v6/${apiKey}/latest/USD`;
 const fromDropDown = document.getElementById("from-currency-select");
 const toDropDown = document.getElementById("to-currency-select");
